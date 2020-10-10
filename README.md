@@ -1,10 +1,10 @@
 This is 50th screencast, called "50. React Meme Generator Capstone Project"<br />
 https://scrimba.com/course/glearnreact
 
+<br /><br />
 
-
-Create the boilerplate to get React to render something on the screen<br />
-Render an App component, which you'll need to create separately<br /><br />
+- Create the boilerplate to get React to render something on the screen
+- Render an App component, which you'll need to create separately
 
 Create 2 new components - Header and MemeGenerator<br />
 Header will only display things<br />
