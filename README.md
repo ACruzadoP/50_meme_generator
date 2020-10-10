@@ -5,9 +5,8 @@ https://scrimba.com/course/glearnreact
 
 - Create the boilerplate to get React to render something on the screen
 - Render an App component, which you'll need to create separately
-
-Create 2 new components - Header and MemeGenerator<br />
-Header will only display things<br />
+- Create 2 new components - Header and MemeGenerator
+-- Header will only display things
 MemeGenerator will be calling to an API and holding on to data<br />
 Each should be in their own file of the same name<br /><br />
 
